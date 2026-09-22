@@ -25,6 +25,7 @@ My solved LeetCode problems synced via LeetHub.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0735-asteroid-collision](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -53,11 +54,13 @@ My solved LeetCode problems synced via LeetHub.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Recursion
