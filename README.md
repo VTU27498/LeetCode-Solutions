@@ -30,6 +30,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0735-asteroid-collision](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0735-asteroid-collision](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,8 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
