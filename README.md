@@ -27,6 +27,7 @@ My solved LeetCode problems synced via LeetHub.
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [0735-asteroid-collision](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
@@ -82,11 +83,13 @@ My solved LeetCode problems synced via LeetHub.
 | [0020-valid-parentheses](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0735-asteroid-collision](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
