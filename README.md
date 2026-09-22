@@ -29,6 +29,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0622-design-circular-queue](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,12 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 <!---LeetCode Topics End-->
