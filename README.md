@@ -29,6 +29,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0239-sliding-window-maximum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0735-asteroid-collision](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -96,6 +97,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0232-implement-queue-using-stacks](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0735-asteroid-collision](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -124,6 +126,7 @@ My solved LeetCode problems synced via LeetHub.
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Data Stream
