@@ -26,6 +26,7 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0179-largest-number](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
@@ -67,6 +68,7 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0179-largest-number](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Recursion
@@ -119,6 +121,7 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0179-largest-number](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
@@ -137,4 +140,8 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
