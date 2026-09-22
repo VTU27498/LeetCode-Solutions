@@ -43,6 +43,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0141-linked-list-cycle](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 ## Design
@@ -79,6 +80,7 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
