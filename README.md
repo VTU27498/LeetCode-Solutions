@@ -36,10 +36,12 @@ My solved LeetCode problems synced via LeetHub.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 ## Two Pointers
@@ -70,4 +72,8 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
