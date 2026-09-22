@@ -47,6 +47,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0206-reverse-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0160-intersection-of-two-linked-lists](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
