@@ -35,6 +35,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -161,4 +162,12 @@ My solved LeetCode problems synced via LeetHub.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
