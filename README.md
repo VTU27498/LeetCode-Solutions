@@ -34,6 +34,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0739-daily-temperatures](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
@@ -75,12 +76,14 @@ My solved LeetCode problems synced via LeetHub.
 | [0344-reverse-string](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0179-largest-number](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2418-sort-the-people](https://github.com/VTU27498/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
