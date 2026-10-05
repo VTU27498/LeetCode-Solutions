@@ -28,6 +28,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0088-merge-sorted-array](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0179-largest-number](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0735-asteroid-collision](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -73,6 +74,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0142-linked-list-cycle-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
