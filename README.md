@@ -12,6 +12,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0112-path-sum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0112-path-sum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -39,6 +41,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0112-path-sum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -232,4 +235,12 @@ My solved LeetCode problems synced via LeetHub.
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
