@@ -11,6 +11,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0112-path-sum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0112-path-sum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +35,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0112-path-sum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +164,7 @@ My solved LeetCode problems synced via LeetHub.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0179-largest-number](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
+| [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VTU27498/LeetCode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -223,4 +227,5 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
