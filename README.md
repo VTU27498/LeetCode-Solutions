@@ -15,6 +15,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@ My solved LeetCode problems synced via LeetHub.
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,4 +250,8 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
