@@ -8,6 +8,7 @@ My solved LeetCode problems synced via LeetHub.
 | ------- | ------- |
 | [0100-same-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -16,6 +17,7 @@ My solved LeetCode problems synced via LeetHub.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -25,6 +27,7 @@ My solved LeetCode problems synced via LeetHub.
 | ------- | ------- |
 | [0100-same-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
@@ -32,6 +35,7 @@ My solved LeetCode problems synced via LeetHub.
 | ------- | ------- |
 | [0100-same-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/VTU27498/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
